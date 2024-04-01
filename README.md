@@ -29,6 +29,6 @@ My journey into the world of programming began with C, where I honed my problem-
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maliyat-Lumya&rank_icon=percentile&show_icons=true&theme=monokai&show=reviews&border_radius=8" />
    
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliyat-Lumya&theme=monokai&layout=compact&count-private=true&hide=jupyter%20notebook,Vue,Blade" />
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliyat-Lumya&theme=monokai&layout=compact&count-private=true&hide=jupyter%20notebook,Vue,Blade" />
   </a>
 </p>

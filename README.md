@@ -14,4 +14,5 @@ A passionate Front End Developer with a knack for crafting intuitive UI/UX exper
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Maliyat-Lumya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maliyat-Lumya&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maliyat-Lumya&theme=monokai&hide_border=true)](https://git.io/streak-stats)

@@ -5,9 +5,7 @@
 <img width="400px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEB38C&random=false&width=435&lines=Welcome+to+My+Github!" />
 </p>
 
-
-
-A passionate Front End Developer with a knack for crafting intuitive UI/UX experiences. My journey into the world of programming began with C, where I honed my problem-solving skills and attention to detail.
+My journey into the world of programming began with C, where I honed my problem-solving skills and attention to detail.
 <details>
 <summary>✨ABOUT ME</summary>
 <ul>

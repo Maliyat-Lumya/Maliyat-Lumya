@@ -1,4 +1,13 @@
+<img width="100%" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/943f20c0-3e3d-472c-8236-23d958dc22ee" />
+
+
+<p align="center">
+    <img  width="49.5%" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/b46c3af3-fbbc-45c4-9c0d-7f098319bc82" />
+    <img  width="49.5%" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/b12edda1-9fbf-45f5-b742-d3febc9d5b59" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEB38C&random=false&width=435&lines=Welcome+to+My+Github!+I+am+LUMYA)](https://git.io/typing-svg)
+
 
 
 A passionate Front End Developer with a knack for crafting intuitive UI/UX experiences. My journey into the world of programming began with C, where I honed my problem-solving skills and attention to detail.

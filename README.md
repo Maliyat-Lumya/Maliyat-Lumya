@@ -27,12 +27,6 @@ My journey into the world of programming began with C, where I honed my problem-
 <p align="left">
   <a href="https://github.com/Maliyat-Lumya">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maliyat-Lumya&rank_icon=percentile&show_icons=true&theme=monokai&show=reviews&border_radius=8" />
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliyat-Lumya&theme=monokai&layout=compact&count-private=true&hide=jupyter%20notebook,Vue,Blade" />
   </a>
 </p>
-<h2> Digital Badges <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDYxY2hsdW51Mmk1Y3I5aXQ2bmIxNDM1eG11aGh1d3p3aGFrNGs1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7xiy8jp0OiGSzcokZL/giphy.gif" width=40px></h2>
-<p align="left">
-  <a href="https://www.holopin.io/@mohsinmw#badges">
-    <img height="80em" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/239a6866-8d22-4450-b26d-ed8df711dcb6)" />
-  </a>
-</p>
+

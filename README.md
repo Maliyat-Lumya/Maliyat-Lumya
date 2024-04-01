@@ -1,14 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maliyat Lumya
-=====================================================================================================================================
 
-Front-End Developer
 
 
 A passionate Front End Developer with a knack for crafting intuitive UI/UX experiences. My journey into the world of programming began with C, where I honed my problem-solving skills and attention to detail.
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [lumyamaliyat03@gmail.com](mailto:lumyamaliyat03@gmail.com)
-* 🚀  I'm currently working on [QuietTube](http://github.com/Maliyat-Lumya/QuietTube)
 * 🧠  I'm learning Data Structure and Algorithm
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like to take a long nap in free time

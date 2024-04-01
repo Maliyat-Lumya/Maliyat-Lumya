@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15DBF7&random=false&width=435&lines=Hi!+My+name+is+Lumya)](https://git.io/typing-svg)
 
 
 A passionate Front End Developer with a knack for crafting intuitive UI/UX experiences. My journey into the world of programming began with C, where I honed my problem-solving skills and attention to detail.

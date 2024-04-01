@@ -1,9 +1,6 @@
 <img width="100%" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/943f20c0-3e3d-472c-8236-23d958dc22ee" />
 
-<p>
-<img width="80px" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" />
-<img width="400px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEB38C&random=false&width=435&lines=Welcome+to+My+Github!" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=30&pause=1000&color=AF6E4D&random=false&width=500&lines=Welcome+To+My+Github!)](https://git.io/typing-svg)
 
 My journey into the world of programming began with C, where I honed my problem-solving skills and attention to detail.
 <details>

@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/Mohsin-mw/Mohsin-mw/assets/122507740/943f20c0-3e3d-472c-8236-23d958dc22ee" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=30&pause=1000&color=AF6E4D&random=false&width=500&lines=Welcome+To+My+Github!)](https://git.io/typing-svg)
 

@@ -4,7 +4,7 @@
 </p>
 
 <h2>✨ About Me</h2>
-<p>I am a passionate front-end developer excited about creating outstanding and use-friendly website that leave a lasting impression. I'm constantly expanding my skill set and exploring new technologies to stay ahead in the dynamic world of front-end development.</p>
+<p>I am a passionate front-end developer excited about creating outstanding and user-friendly website that leave a lasting impression. I'm constantly expanding my skill set and exploring new technologies to stay ahead in the dynamic world of front-end development.</p>
 
 
 <h2>🔧 Skills & Expertise</h2>

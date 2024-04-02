@@ -9,7 +9,7 @@
 
 <h2>🔧 Skills & Expertise</h2>
 
-- <p> <b>Languages:</b> JavaSrcipt , C+ </p>
+- <p> <b>Languages:</b> JavaSrcipt , C++ </p>
 - <p> <b>Frontend:</b> HTML , CSS </p>
 
 <h2>🌱 Currently Learning</h2>
